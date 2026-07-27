@@ -1,0 +1,5 @@
+INFO:root:test entry
+2026-07-25 19:28:32,380 - INFO - Direct test from test_log.py
+Manual write test
+2026-07-25 19:28:49,998 - INFO - Direct test from test_log.py
+Manual write test
